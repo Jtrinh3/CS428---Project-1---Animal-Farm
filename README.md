@@ -29,7 +29,7 @@ The goal of our project is to create a demo of what a book may look like with th
     - [x] at least one ambient sound *(pig oinking)*
     - [ ] at least one animated/moving object or particle effect  
 - [ ] _**Omar**_
-    - [ ] at least 5 unique pre-existing models *(currently at 7 models)*
+    - [ ] at least 5 unique pre-existing models *(currently at 7 models not including the crown)*
     - [ ] at least one reasonably interesting unique model you created yourself *(perhaps replace the crown with your own K-rool style one?)*
     - [ ] at least one ambient sound
     - [ ] at least one animated/moving object or particle effect
