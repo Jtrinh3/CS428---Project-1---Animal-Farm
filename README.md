@@ -20,7 +20,6 @@ The goal of our project is to create a demo of what a book may look like with th
 - [x] create an image target based on the front cover of your book so that you can set your book on the table, point your webcam at it, and see the augmented information hovering over the front cover
     - [x] the front cover needs to have the title and author(s) displayed in augmented text
     - [x] the front cover should show a 3 dimensional scene from the book with appropriate lighting with at least 2 lights.
-- [ ] ~~need to fix scaling~~ (not too important)
     
 - [ ] For each person in your team you need to add the following things to the front scene which should be clearly visible / audible in appropriate scale and appropriate style  
 - [ ] _**James**_  
