@@ -21,13 +21,13 @@ The goal of our project is to create a demo of what a book may look like with th
     - [x] the front cover should show a 3 dimensional scene from the book with appropriate lighting with at least 2 lights.
 - [ ] need to fix scaling
     
-- [ ] For each person in your team you need to add the following things to the front scene which should be clearly visible / audible in appropriate scale and appropriate style
-    James
+- [ ] For each person in your team you need to add the following things to the front scene which should be clearly visible / audible in appropriate scale and appropriate style  
+- [ ] _**James**_  
     - [x] at least 5 unique pre-existing models
     - [ ] at least one reasonably interesting unique model you created yourself *(I'll make an arch entrance for the fence)*
     - [x] at least one ambient sound *(pig oinking)*
-    - [ ] at least one animated/moving object or particle effect
-    Omar
+    - [ ] at least one animated/moving object or particle effect  
+- [ ] _**Omar**_
     - [ ] at least 5 unique pre-existing models *(currently at 7 models)*
     - [ ] at least one reasonably interesting unique model you created yourself *(perhaps replace the crown with your own K-rool style one?)*
     - [ ] at least one ambient sound
