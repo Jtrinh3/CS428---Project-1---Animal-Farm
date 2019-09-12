@@ -8,3 +8,5 @@ The goal of our project is to create a demo of what a book may look like with th
   - Barn https://drive.google.com/drive/folders/1gdZ39vcLML_ULU5sHirkKQ-gEkk458Ak
   - Horse, Cow, Pig, Sheep, Lama, Pug https://drive.google.com/drive/folders/1is1ax2V0mIEDS7BbbzBV_x2Pabya1dVJ
 - White Chicken (animated) https://sketchfab.com/3d-models/chicken-rigged-6e3b93c078114c52bfe4cfa08b9843eb
+- Sounds
+  - Pig Oinks https://freesound.org/people/virelilisoi/sounds/179111/
