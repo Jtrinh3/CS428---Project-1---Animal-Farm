@@ -1482,7 +1482,7 @@ Mesh:
     vertexCount: 4
     localAABB:
       m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.3008849, y: 0, z: 0.5}
+      m_Extent: {x: 0.3348836, y: 0, z: 0.5}
   m_Shapes:
     vertices: []
     shapes: []
@@ -1561,7 +1561,7 @@ Mesh:
       format: 0
       dimension: 0
     m_DataSize: 128
-    _typelessdata: 960d9abe00000000000000bf000000000000803f000000000000000000000000960d9abe000000000000003f000000000000803f00000000000000000000803f960d9a3e00000000000000bf000000000000803f000000000000803f00000000960d9a3e000000000000003f000000000000803f000000000000803f0000803f
+    _typelessdata: dd75abbe00000000000000bf000000000000803f000000000000000000000000dd75abbe000000000000003f000000000000803f00000000000000000000803fdd75ab3e00000000000000bf000000000000803f000000000000803f00000000dd75ab3e000000000000003f000000000000803f000000000000803f0000803f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -2404,10 +2404,10 @@ MonoBehaviour:
   mPreserveChildSize: 0
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/Animal_Farm.xml
-  mAspectRatio: 1.661765
+  mAspectRatio: 1.493056
   mImageTargetType: 0
-  mWidth: 0.6017698
-  mHeight: 1
+  mWidth: 1.1129957
+  mHeight: 1.661765
 --- !u!4 &1519062917
 Transform:
   m_ObjectHideFlags: 0
@@ -2417,7 +2417,7 @@ Transform:
   m_GameObject: {fileID: 1519062911}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.661765, y: 1.661765, z: 1.661765}
   m_Children:
   - {fileID: 1178353238}
   - {fileID: 366813992}
@@ -2965,7 +2965,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 5e7c0411fe2a47b599446af8cf9e72a7, type: 3}
+        m_Texture: {fileID: 2800000, guid: bbd71b9eb49e4106bbb4eb5024a10412, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
