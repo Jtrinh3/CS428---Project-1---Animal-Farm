@@ -27,7 +27,7 @@ The goal of our project is to create a demo of what a book may look like with th
     - [ ] at least one reasonably interesting unique model you created yourself *(I'll make an arch entrance for the fence)*
     - [x] at least one ambient sound *(pig oinking)*
     - [x] at least one animated/moving object or particle effect *(the crow perched on the barn is animated now, so you dont need another unless you want one)*  
-- [ ] _**Omar**_
+- [x] _**Omar**_
     - [x] at least 5 unique pre-existing models ~~*(currently at 7 models not including the crown)*~~ *(I added another chicken, a crow, and a cardnal bringing it up to 10 total)*
     - [x] at least one reasonably interesting unique model you created yourself ~~*(perhaps replace the crown with your own K-rool style one?)*~~*(I made a lightpost next to a pig and that should count as a light source so it doesn't look un-natural with 2 lights coming from the sky)*
     - [x] at least one ambient sound *(Birds chirping)*
