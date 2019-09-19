@@ -22,12 +22,12 @@ The goal of our project is to create a demo of what a book may look like with th
     - [x] the front cover should show a 3 dimensional scene from the book with appropriate lighting with at least 2 lights.
     
 - [ ] For each person in your team you need to add the following things to the front scene which should be clearly visible / audible in appropriate scale and appropriate style  
-- [ ] _**James**_  
+- [x] _**(done)James**_  
     - [x] at least 5 unique pre-existing models
-    - [ ] at least one reasonably interesting unique model you created yourself *(I'll make an arch entrance for the fence)*
+    - [x] at least one reasonably interesting unique model you created yourself ~~*(I'll make an arch entrance for the fence~~ Lantern on the chicken coop)*
     - [x] at least one ambient sound *(pig oinking)*
     - [x] at least one animated/moving object or particle effect *(the crow perched on the barn is animated now, so you dont need another unless you want one)*  
-- [x] _**Omar**_
+- [x] _**(passable)Omar**_
     - [x] at least 5 unique pre-existing models ~~*(currently at 7 models not including the crown)*~~ *(I added another chicken, a crow, and a cardnal bringing it up to 10 total)*
     - [x] at least one reasonably interesting unique model you created yourself ~~*(perhaps replace the crown with your own K-rool style one?)*~~*(I made a lightpost next to a pig and that should count as a light source so it doesn't look un-natural with 2 lights coming from the sky)*
     - [x] at least one ambient sound *(Birds chirping)*
@@ -36,7 +36,7 @@ The goal of our project is to create a demo of what a book may look like with th
 
 **25% of the points on the project are for:**
 
-- [ ] create an image target based on the back cover of your book so that you can set your book on the table, point your webcam at it, and see the augmented information hovering over the back cover by default text should appear above the book giving the title, author(s), language, number of pages, and publication year
+- [ ] create an image target based on the back cover of your book so that you can set your book on the table, point your webcam at it, and see the augmented information hovering over the back cover by default text should appear above the book giving the title, author(s), language, number of pages, and publication year (J: rotate the container for the UI boxes!)
     - [ ] the user should see an augmented reality button allowing them to **change** the visible information floating above the back cover from the title / author / etc information to a set of mostly textual reviews, and a set of video reviews (using unity's video player)
 - [ ] for each person in your team you need to add the following things which should be clearly visible / audible in an appropriate scale and appropriate style
 - [ ] _**James**_  
