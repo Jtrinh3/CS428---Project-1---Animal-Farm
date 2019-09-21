@@ -74,7 +74,7 @@ public class ButtonHandlers : MonoBehaviour
                 break;
             case 4:
                 author.GetComponent<UnityEngine.UI.Text>().text = "Tyler Peck        12/29/18";
-                review.GetComponent<UnityEngine.UI.Text>().text = "These stories were required reading when I was in high school in the 60's. They seemed more like fantasy to me back then. I can't say that I fully understood back then the point Mr.Orwell was trying to make. Now so many years later I believe that I do and I have to say that I can see that they have actually become reality. Scares the heck out of me too. It is almost as though Mr. Orwell could see the future.";
+                review.GetComponent<UnityEngine.UI.Text>().text = "This was required reading when I was in high school in '63. Seemed like fantasy back then. I can't say that I understood back then the point Mr.Orwell making. So many years later I think I do and I can see that they have actually become reality. Scares the heck out of me. Almost as though Mr. Orwell could see the future.";
                 starChange(5);
                 break;
 
