@@ -9,7 +9,7 @@ public class ButtonHandlers : MonoBehaviour
     private GameObject Video1;
     private GameObject Video2;
     private int reviewNum = 1;
-    private static int TOTAL_REVIEWS = 2;
+    private static int TOTAL_REVIEWS = 4;
 
 
 
@@ -70,13 +70,34 @@ public class ButtonHandlers : MonoBehaviour
 
     public void changeReview(int reviewNumber)
     {
-    GameObject author = GameObject.Find("Author Text");
-
-        author.GetComponent<UnityEngine.UI.Text>().text = "Debbie D.";
+        GameObject author = GameObject.Find("Author Text");
         GameObject review = GameObject.Find("Review Text");
 
-        review.GetComponent<UnityEngine.UI.Text>().text = "Animal farm is a great book that plays around with many themes. I hope one day my kids grow up to be a strong leader like Napoleon.";
-        starChange(2);
+
+        switch (reviewNumber)
+        {
+            case 1:
+                author.GetComponent<UnityEngine.UI.Text>().text = "Debbie Davis";
+                review.GetComponent<UnityEngine.UI.Text>().text = "Animal farm is a great book that plays around with many themes. I hope one day my kids grow up to be a strong leader like Napoleon.";
+                starChange(5);
+                break;
+            case 2:
+                author.GetComponent<UnityEngine.UI.Text>().text = "Johann Ashley";
+                review.GetComponent<UnityEngine.UI.Text>().text = "I taught a class of high school students with this book and they were all very engage! The book covers many themes and topics that applies even today!";
+                starChange(4);
+                break;
+            case 3:
+                author.GetComponent<UnityEngine.UI.Text>().text = "Christian Younglove";
+                review.GetComponent<UnityEngine.UI.Text>().text = "I hate this book for many reasons. The largest being it told through third person limited gave it no emotion where emotion could really connect you to the story and make it actually a mildly entertaining book.";
+                starChange(1);
+                break;
+            case 4:
+                author.GetComponent<UnityEngine.UI.Text>().text = "Johann Ashley";
+                review.GetComponent<UnityEngine.UI.Text>().text = "I taught a class of high school students with this book and they were all very engage! The book covers many themes and topics that applies even today!";
+                starChange(5);
+                break;
+
+        }
        
     }
 

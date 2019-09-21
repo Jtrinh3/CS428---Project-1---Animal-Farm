@@ -989,7 +989,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 894263608}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1029,11 +1029,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Animal farm is a great book that plays around with many themes. I hope
-    one day my kids grow up to be a strong leader like Napoleon.
-
-
-    5/5'
+  m_Text: Animal farm is a great book that plays around with many themes. I hope one
+    day my kids grow up to be a strong leader like Napoleon.
 --- !u!222 &242775960
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2648,7 +2645,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 894263608}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -4830,8 +4827,8 @@ RectTransform:
   - {fileID: 949684539}
   - {fileID: 2065387833}
   - {fileID: 1135127089}
-  - {fileID: 442368470}
   - {fileID: 242775958}
+  - {fileID: 442368470}
   m_Father: {fileID: 908930311}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 25, y: -90, z: 0}
