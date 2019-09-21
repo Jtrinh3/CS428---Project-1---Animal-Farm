@@ -1029,11 +1029,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Animal farm is a book, i havent read it in a long time so i cant really
-    say how good it is, but i remember it being good.
+  m_Text: 'Animal farm is a great book that plays around with many themes. I hope
+    one day my kids grow up to be a strong leader like Napoleon.
 
 
-    4/5'
+    5/5'
 --- !u!222 &242775960
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2688,7 +2688,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: John Doe
+  m_Text: Debbie D.
 --- !u!222 &442368472
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7567,7 +7567,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e477043a5dcb2dc41b723b835e1e9304, type: 2}
+      objectReference: {fileID: 2100000, guid: fb7b14ecacd4969458ff6b70a07d672a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f91cdbe55b9b184408c5b4e0b946352e, type: 3}
 --- !u!4 &1663906138 stripped
