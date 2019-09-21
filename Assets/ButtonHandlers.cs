@@ -37,19 +37,6 @@ public class ButtonHandlers : MonoBehaviour
         player.Play();
     }
 
-    public void prevReview()
-    {
-        reviewNum = reviewNum - 1;
-        if (reviewNum == 0)
-        {
-            reviewNum = TOTAL_REVIEWS;
-        }
-
-        changeReview(reviewNum);
-
-
-
-    }
 
     public void nextReview()
     {
@@ -71,22 +58,22 @@ public class ButtonHandlers : MonoBehaviour
         switch (reviewNumber)
         {
             case 1:
-                author.GetComponent<UnityEngine.UI.Text>().text = "Debbie Davis";
+                author.GetComponent<UnityEngine.UI.Text>().text = "Debbie Davis        7/25/18";
                 review.GetComponent<UnityEngine.UI.Text>().text = "Animal farm is a great book that plays around with many themes. I hope one day my kids grow up to be a strong leader like Napoleon.";
                 starChange(5);
                 break;
             case 2:
-                author.GetComponent<UnityEngine.UI.Text>().text = "Johann Ashley";
+                author.GetComponent<UnityEngine.UI.Text>().text = "Johann Ashley        1/14/15";
                 review.GetComponent<UnityEngine.UI.Text>().text = "I taught a class of high school students with this book and they were all very engage! The book covers many themes and topics that applies even today!";
                 starChange(4);
                 break;
             case 3:
-                author.GetComponent<UnityEngine.UI.Text>().text = "Christian Younglove";
+                author.GetComponent<UnityEngine.UI.Text>().text = "Christian Younglove        8/03/19";
                 review.GetComponent<UnityEngine.UI.Text>().text = "I hate this book for many reasons. The largest being it told through third person limited gave it no emotion where emotion could really connect you to the story and make it actually a mildly entertaining book.";
                 starChange(1);
                 break;
             case 4:
-                author.GetComponent<UnityEngine.UI.Text>().text = "Tyler Peck";
+                author.GetComponent<UnityEngine.UI.Text>().text = "Tyler Peck        12/29/18";
                 review.GetComponent<UnityEngine.UI.Text>().text = "These stories were required reading when I was in high school in the 60's. They seemed more like fantasy to me back then. I can't say that I fully understood back then the point Mr.Orwell was trying to make. Now so many years later I believe that I do and I have to say that I can see that they have actually become reality. Scares the heck out of me too. It is almost as though Mr. Orwell could see the future.";
                 starChange(5);
                 break;
