@@ -70,26 +70,74 @@ public class ButtonHandlers : MonoBehaviour
 
     public void changeReview(int reviewNumber)
     {
-        Material gold = Resources.Load("Gold Star", typeof(Material)) as Material;
-        Material black = Resources.Load("Black Star", typeof(Material)) as Material;
-
     GameObject author = GameObject.Find("Author Text");
 
         author.GetComponent<UnityEngine.UI.Text>().text = "Debbie D.";
         GameObject review = GameObject.Find("Review Text");
 
         review.GetComponent<UnityEngine.UI.Text>().text = "Animal farm is a great book that plays around with many themes. I hope one day my kids grow up to be a strong leader like Napoleon.";
-
-        GameObject star1 = GameObject.Find("star1");
-        GameObject star5 = GameObject.Find("star5");
-        //star1.GetComponent<MeshRenderer>().material = star5.GetComponent<MeshRenderer>().material;
-        star1.GetComponentInChildren<MeshRenderer>().material = star5.GetComponentInChildren<MeshRenderer>().material;
-
+        starChange(2);
+       
     }
 
     public void starChange(int stars)
     {
+        Material gold = Resources.Load("Gold Star", typeof(Material)) as Material;
+        Material black = Resources.Load("Black Star", typeof(Material)) as Material;
 
+        GameObject star1 = GameObject.Find("star1");
+        GameObject star2 = GameObject.Find("star2");
+        GameObject star3 = GameObject.Find("star3");
+        GameObject star4 = GameObject.Find("star4");
+        GameObject star5 = GameObject.Find("star5");
+
+        switch (stars)
+        {
+            case 0:
+                star1.GetComponentInChildren<MeshRenderer>().material = black;
+                star2.GetComponentInChildren<MeshRenderer>().material = black;
+                star3.GetComponentInChildren<MeshRenderer>().material = black;
+                star4.GetComponentInChildren<MeshRenderer>().material = black;
+                star5.GetComponentInChildren<MeshRenderer>().material = black;
+                break;
+            case 1:
+                star1.GetComponentInChildren<MeshRenderer>().material = gold;
+                star2.GetComponentInChildren<MeshRenderer>().material = black;
+                star3.GetComponentInChildren<MeshRenderer>().material = black;
+                star4.GetComponentInChildren<MeshRenderer>().material = black;
+                star5.GetComponentInChildren<MeshRenderer>().material = black;
+                break;
+            case 2:
+                star1.GetComponentInChildren<MeshRenderer>().material = gold;
+                star2.GetComponentInChildren<MeshRenderer>().material = gold;
+                star3.GetComponentInChildren<MeshRenderer>().material = black;
+                star4.GetComponentInChildren<MeshRenderer>().material = black;
+                star5.GetComponentInChildren<MeshRenderer>().material = black;
+                break;
+            case 3:
+                star1.GetComponentInChildren<MeshRenderer>().material = gold;
+                star2.GetComponentInChildren<MeshRenderer>().material = gold;
+                star3.GetComponentInChildren<MeshRenderer>().material = gold;
+                star4.GetComponentInChildren<MeshRenderer>().material = black;
+                star5.GetComponentInChildren<MeshRenderer>().material = black;
+                break;
+            case 4:
+                star1.GetComponentInChildren<MeshRenderer>().material = gold;
+                star2.GetComponentInChildren<MeshRenderer>().material = gold;
+                star3.GetComponentInChildren<MeshRenderer>().material = gold;
+                star4.GetComponentInChildren<MeshRenderer>().material = gold;
+                star5.GetComponentInChildren<MeshRenderer>().material = black;
+                break;
+            case 5:
+                star1.GetComponentInChildren<MeshRenderer>().material = gold;
+                star2.GetComponentInChildren<MeshRenderer>().material = gold;
+                star3.GetComponentInChildren<MeshRenderer>().material = gold;
+                star4.GetComponentInChildren<MeshRenderer>().material = gold;
+                star5.GetComponentInChildren<MeshRenderer>().material = gold;
+                break;
+            
+
+        }
     }
 
 }
