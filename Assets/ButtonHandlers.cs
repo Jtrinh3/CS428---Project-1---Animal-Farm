@@ -11,7 +11,10 @@ public class ButtonHandlers : MonoBehaviour
     private int reviewNum = 1;
     private static int TOTAL_REVIEWS = 4;
 
-
+    private bool spokePerson = false;
+    private GameObject spokePig;
+    // Adjust the speed for the application.
+    private float speed = 300f;
 
     public void menuRotateCounterClockwise()
     {
@@ -140,6 +143,23 @@ public class ButtonHandlers : MonoBehaviour
             
 
         }
+    }
+
+    public void SpokePerson() //moves pig into view
+    {
+        spokePerson = true;
+        spokePig = GameObject.Find("Napoleon Group");
+        spokePig.transform.localPosition = new Vector3( 0, 0, 0 );
+        StartCoroutine(ExecuteAfterTime(15)); //delay execution 
+    }
+
+    IEnumerator ExecuteAfterTime(float time)
+    {
+        yield return new WaitForSeconds(time);
+
+        // Code to execute after the delay
+        spokePig.transform.localPosition = new Vector3( 0, 5, 0 );
+        spokePerson = false;
     }
 
 }
