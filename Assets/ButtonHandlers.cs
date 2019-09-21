@@ -39,13 +39,10 @@ public class ButtonHandlers : MonoBehaviour
 
     public void prevReview()
     {
-        if (reviewNum == 1)
+        reviewNum = reviewNum - 1;
+        if (reviewNum == 0)
         {
             reviewNum = TOTAL_REVIEWS;
-        }
-        else
-        {
-            reviewNum = reviewNum - 1;
         }
 
         changeReview(reviewNum);
@@ -56,13 +53,10 @@ public class ButtonHandlers : MonoBehaviour
 
     public void nextReview()
     {
-        if(reviewNum == TOTAL_REVIEWS)
+        reviewNum = reviewNum + 1;
+        if (reviewNum == TOTAL_REVIEWS+1)
         {
             reviewNum = 1;
-        }
-        else
-        {
-            reviewNum = reviewNum + 1;
         }
         changeReview(reviewNum);
 
@@ -92,8 +86,8 @@ public class ButtonHandlers : MonoBehaviour
                 starChange(1);
                 break;
             case 4:
-                author.GetComponent<UnityEngine.UI.Text>().text = "Johann Ashley";
-                review.GetComponent<UnityEngine.UI.Text>().text = "I taught a class of high school students with this book and they were all very engage! The book covers many themes and topics that applies even today!";
+                author.GetComponent<UnityEngine.UI.Text>().text = "Tyler Peck";
+                review.GetComponent<UnityEngine.UI.Text>().text = "These stories were required reading when I was in high school in the 60's. They seemed more like fantasy to me back then. I can't say that I fully understood back then the point Mr.Orwell was trying to make. Now so many years later I believe that I do and I have to say that I can see that they have actually become reality. Scares the heck out of me too. It is almost as though Mr. Orwell could see the future.";
                 starChange(5);
                 break;
 
