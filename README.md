@@ -32,7 +32,7 @@ The goal of our project is to create a demo of what a book may look like with th
     - [x] at least one reasonably interesting unique model you created yourself ~~*(perhaps replace the crown with your own K-rool style one?)*~~*(I made a lightpost next to a pig and that should count as a light source so it doesn't look un-natural with 2 lights coming from the sky)*
     - [x] at least one ambient sound *(Birds chirping)*
     - [x] at least one animated/moving object or particle effect *(the cardinal is flapping its wings, but not moving yet, so yes and no)*
-- [ ] the front cover needs to have an AR button that the user can activate which will trigger a 3D character from the book to appear as a spokesperson, in addition to the scene, to speak the name and author of the book and encourage you to read it. The spoken sentence should be audible over any ambient sounds or music you have on the page. A member of your team should supply these sentences and not use anything prerecorded, though you can feel free to enhance your audio recording. *(I can do this)*
+- [x] the front cover needs to have an AR button that the user can activate which will trigger a 3D character from the book to appear as a spokesperson, in addition to the scene, to speak the name and author of the book and encourage you to read it. The spoken sentence should be audible over any ambient sounds or music you have on the page. A member of your team should supply these sentences and not use anything prerecorded, though you can feel free to enhance your audio recording.
 
 **25% of the points on the project are for:**
 
