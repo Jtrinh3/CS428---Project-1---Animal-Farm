@@ -5,27 +5,19 @@
 
 ## How to use
 
-
-## Source Materials
-
-
 ## Git Page
 https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm
 ### Download Instructions:
 Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm) and within the green dropdown box with the word "Clone or download", press the "Download ZIP" and you will have the entire project file downloaded in zip format to be extracted and used in Unity 2019.2.
 
-## Resources Utilized
-Below is a list of all models and sounds we've use or created.
+## Source Materials
 
-### Model Used
-1. blah
-2. blah
-3. bleh
+
+### Source Codes
+
+### Model List
 
 ### Audio Used
-1. oof
-2. owie
-3. my bones
 
 ## Reflection
 at least a one page / 500 word discussion of how effective you think this technique could be as a kind of 3 dimensional 'movie trailer' for the book.
