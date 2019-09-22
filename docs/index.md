@@ -10,3 +10,6 @@
 
 
 ## Git Page
+https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm
+### Download Instructions:
+Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm) and within the green dropdown box with the word "Clone or download", press the "Download ZIP" and you will have the entire project file downloaded in zip format to be extracted and used in Unity 2019.2.
