@@ -16,9 +16,11 @@ Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-
 ### Source Codes
 
 ### Model List
-<img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/docs/3Dmodels.png" width="500">
-<img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/docs/3dmodels2.png" width="500">
-<img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/docs/3Dmodels3.jpg" width="500">
+<p float="left">
+  <img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/docs/3Dmodels.png" width="500">
+  <img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/docs/3dmodels2.png" width="250">
+  <img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/docs/3Dmodels3.jpg" width="250">
+</p>
 
 ### Audio Used
 
