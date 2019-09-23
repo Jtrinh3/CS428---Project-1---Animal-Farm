@@ -24,7 +24,7 @@ Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 1.      | Brown Chicken - [source](https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm) |
+| 1.      | White Chicken - [SketchFab](https://sketchfab.com/3d-models/chicken-rigged-6e3b93c078114c52bfe4cfa08b9843eb) |
 | 2.      | Awesome Lamp Post - By Omar A. |
 | 3.      | Pigs - [Farm Animal Pack](http://quaternius.com/assets.html) |
 | 4.      | Silo - [Farm Buildings Pack](http://quaternius.com/assets.html) |
