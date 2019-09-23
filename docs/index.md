@@ -17,7 +17,7 @@ Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-
 
 ### Model List
 <p float="left">
-  <img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/docs/3Dmodels.png" width="500">
+  <img src="/docs/3Dmodels.png" width="500">
   <img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/docs/3dmodels2.png" width="250">
   <img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/docs/3Dmodels3.jpg" width="100">
 </p>
