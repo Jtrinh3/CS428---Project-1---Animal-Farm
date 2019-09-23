@@ -46,7 +46,7 @@ Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-
 | File Name                          | Description & Link |
 | ---------------------------------- | ------------------ |
 | Animal Farm.mp3                    | Spoke Person voice by James T. |
-| bird chirp.mp3                     | Bird chirpping background noise - [National Park Service](https://www.nps.gov/yell/learn/photosmultimedia/sounds-birdchorus.htm) |
+| bird chirp.mp3                     | Bird chirping background noise - [National Park Service](https://www.nps.gov/yell/learn/photosmultimedia/sounds-birdchorus.htm) |
 | virelilisoi__grunting-pig-farm.wav | Pig background noises - [freesound.org](https://freesound.org/people/virelilisoi/sounds/179111/) |
 
 ## Reflection
