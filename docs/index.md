@@ -22,6 +22,25 @@ Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-
   <img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/docs/3Dmodels3.jpg" width="100">
 </p>
 
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 1.      | Brown Chicken - [source](https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm) |
+| 2.      | Awesome Lamp Post - By Omar A. |
+| 3.      | Pigs - [source]( |
+| 4.      | Silo - [source](http://quaternius.com/assets.html) |
+| 5.      | e |
+| 6.      | f |
+| 7.      | Barn - [source](http://quaternius.com/assets.html) |
+| 8.      | h |
+| 9.      | h |
+| 10.     | Sheep - [source](http://quaternius.com/assets.html) |
+| 11.     | Sweet Lantern - By James T. |
+| 12.     | White Chicken - [source](https://sketchfab.com/3d-models/chicken-rigged-6e3b93c078114c52bfe4cfa08b9843eb) |
+| 13.     | Chicken Coop - [source](http://quaternius.com/assets.html) |
+| 14.     | h |
+| 15.     | h |
+| 16.     | Fences - [source](http://quaternius.com/assets.html) |
+
 ### Audio Used
 
 ## Reflection
