@@ -43,11 +43,11 @@ Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-
 
 ### Audio Used
 
-| File Name                          | Description & Link | Audio |
-| ---------------------------------- | ------------------ | ----- |
-| Animal Farm.mp3                    | Spoke Person voice by James T. |   <audio preload="auto"><source src="/Assets/Resources/Sounds/Animal Farm.mp3" type="audio/mp3" /></audio> |
-| bird chirp.mp3                     | **TODO** | |
-| virelilisoi__grunting-pig-farm.wav | Pig background noises - [freesound.org](https://freesound.org/people/virelilisoi/sounds/179111/) | |
+| File Name                          | Description & Link |
+| ---------------------------------- | ------------------ |
+| Animal Farm.mp3                    | Spoke Person voice by James T. |
+| bird chirp.mp3                     | **TODO** |
+| virelilisoi__grunting-pig-farm.wav | Pig background noises - [freesound.org](https://freesound.org/people/virelilisoi/sounds/179111/) |
 
 ## Reflection
 at least a one page / 500 word discussion of how effective you think this technique could be as a kind of 3 dimensional 'movie trailer' for the book.
