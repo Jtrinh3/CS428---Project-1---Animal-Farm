@@ -26,20 +26,20 @@ Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-
 | ------- | ----------------------------------------------------- |
 | 1.      | Brown Chicken - [source](https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm) |
 | 2.      | Awesome Lamp Post - By Omar A. |
-| 3.      | Pigs - [source]( |
-| 4.      | Silo - [source](http://quaternius.com/assets.html) |
-| 5.      | e |
-| 6.      | f |
+| 3.      | Pigs - [Farm Animal Pack](http://quaternius.com/assets.html) |
+| 4.      | Silo - [Farm Buildings Pack](http://quaternius.com/assets.html) |
+| 5.      | Red Robin - **TODO** |
+| 6.      | Crow - **TODO** |
 | 7.      | Barn - [source](http://quaternius.com/assets.html) |
-| 8.      | h |
-| 9.      | h |
-| 10.     | Sheep - [source](http://quaternius.com/assets.html) |
+| 8.      | Cow - [Farm Animal Pack](http://quaternius.com/assets.html) |
+| 9.      | Horse - [Farm Animal Pack](http://quaternius.com/assets.html) |
+| 10.     | Sheep - [Farm Animal Pack](http://quaternius.com/assets.html) |
 | 11.     | Sweet Lantern - By James T. |
-| 12.     | White Chicken - [source](https://sketchfab.com/3d-models/chicken-rigged-6e3b93c078114c52bfe4cfa08b9843eb) |
-| 13.     | Chicken Coop - [source](http://quaternius.com/assets.html) |
-| 14.     | h |
-| 15.     | h |
-| 16.     | Fences - [source](http://quaternius.com/assets.html) |
+| 12.     | White Chicken - [SketchFab](https://sketchfab.com/3d-models/chicken-rigged-6e3b93c078114c52bfe4cfa08b9843eb) |
+| 13.     | Chicken Coop - [Farm Buildings Pack](http://quaternius.com/assets.html) |
+| 14.     | Crown - [Free3D](https://free3d.com/3d-model/golden-crown-v1--822180.html) |
+| 15.     | Star - **TODO** |
+| 16.     | Fences - [Farm Buildings Pack](http://quaternius.com/assets.html) |
 
 ### Audio Used
 
