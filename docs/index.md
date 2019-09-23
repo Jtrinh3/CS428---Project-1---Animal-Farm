@@ -45,7 +45,7 @@ Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-
 | File Name | Description & Link |
 | --------- | ------------------ |
 | Animal Farm.mp3 | Spoke Person voice by James T. |
-| bird chirp.mp3 | **TODO**
+| bird chirp.mp3 | **TODO** |
 | virelilisoi__grunting-pig-farm.wav | Pig background noises - [freesound.org](https://freesound.org/people/virelilisoi/sounds/179111/) |
 
 ## Reflection
