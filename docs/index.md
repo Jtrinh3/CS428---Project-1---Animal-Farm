@@ -4,7 +4,7 @@
 <img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/Assets/Resources/images/front%20cover%20photo.jpg" width="100">
 
 ## How to use
-**TODO**
+**TODO: Video + screenshots walkthrough**
 
 ## Git Page
 https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm
