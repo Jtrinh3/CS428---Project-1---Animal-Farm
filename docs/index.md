@@ -39,7 +39,7 @@ Go to [the website above](https://github.com/Jtrinh3/CS428---Project-1---Animal-
 | 9.      | Horse - [Farm Animal Pack](http://quaternius.com/assets.html) |
 | 10.     | Sheep - [Farm Animal Pack](http://quaternius.com/assets.html) |
 | 11.     | Sweet Lantern - By James T. |
-| 12.     | White Chicken - [SketchFab](https://sketchfab.com/3d-models/chicken-rigged-6e3b93c078114c52bfe4cfa08b9843eb) |
+| 12.     | Other Chicken - [SketchFab](https://sketchfab.com/3d-models/chicken-rigged-6e3b93c078114c52bfe4cfa08b9843eb) |
 | 13.     | Chicken Coop - [Farm Buildings Pack](http://quaternius.com/assets.html) |
 | 14.     | Crown - [Free3D](https://free3d.com/3d-model/golden-crown-v1--822180.html) |
 | 15.     | Star - By Omar A. |
