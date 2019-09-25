@@ -4,7 +4,21 @@
 <img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/raw/master/Assets/Resources/images/front%20cover%20photo.jpg" width="100">
 
 ## How to use
-**TODO: Video + screenshots walkthrough**
+**Loading & running the project:**
+1. Download the project and unzip it.
+2. Start up Unity and add the project.
+3. Find SampleScene under "..\Assets\Scenes" and double get that loaded into Unity.
+4. Have the book or an image of it ready and press the play button above unity.
+
+**What you can do in the project**
+
+1. With the front cover up, you can move the book under the AR camera in order to see it pop up. A menu HUD will pop up with a button allowing you to select the button to listen to the pig spoke person.
+
+On the back cover side, you can view the reviews and videos by either rotating the book or using the arrow buttons.
+
+On the review section, you can cycle through the reviews to read.
+
+There are also two video panels that has the play button to listen to video review. Press the play button at the center of the arrows to play the video.
 
 ## Git Page
 https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm
