@@ -12,7 +12,7 @@
 
 **What you can do in the project**
 
-With the front cover up, you can move the book under the AR camera in order to see it pop up. A menu HUD will pop up with a button allowing you to select the button to listen to the pig spoke person.
+With the front cover up, you can move the book under the AR camera in order to see it pop up. A menu HUD will pop up with a button allowing you to select the button to listen to the big pig spoke person. Feel free to look around the beautiful scene!
 
 On the back cover side, you can view the reviews and videos by either rotating the book or using the arrow buttons.
 
