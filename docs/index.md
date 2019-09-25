@@ -16,7 +16,7 @@ With the front cover up, you can move the book under the AR camera in order to s
 
 On the back cover side, you can view the reviews and videos by either rotating the book or using the arrow buttons.
 
-On the review section, you can cycle through the reviews to read.
+Within the review side, you can cycle through the reviews to read.
 
 There are also two video panels that has the play button to listen to video review. Press the play button at the center of the arrows to play the video.
 
