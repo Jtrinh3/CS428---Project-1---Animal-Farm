@@ -14,11 +14,23 @@
 
 With the front cover up, you can move the book under the AR camera in order to see it pop up. A menu HUD will pop up with a button allowing you to select the button to listen to the big pig spoke person. Feel free to look around the beautiful scene!
 
+<img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/blob/master/docs/scene.png?raw=true" width="500">
+
+<img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/blob/master/docs/spokes.png?raw=true" width="500">
+
 On the back cover side, you can view the reviews and videos by either rotating the book or using the arrow buttons.
+
+<img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/blob/master/docs/about.png?raw=true" width="500">
 
 Within the review side, you can cycle through the reviews to read.
 
+<img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/blob/master/docs/review.png?raw=true" width="500">
+
 There are also two video panels that has the play button to listen to video review. Press the play button at the center of the arrows to play the video.
+
+<img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/blob/master/docs/video1.png?raw=true" width="500">
+
+<img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/blob/master/docs/video2.png?raw=true" width="500">
 
 ## Git Page
 https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm
