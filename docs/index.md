@@ -32,7 +32,7 @@ There are also two video panels that has the play button to listen to video revi
 
 <img src="https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/blob/master/docs/video2.png?raw=true" width="500">
 
-[Link to video](https://youtu.be/9MbolPK8nGo)
+[Link to video](https://youtu.be/dRZxdp5UzN8)
 
 ## Git Page
 https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm
