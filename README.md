@@ -2,6 +2,7 @@
 Project 1 for CS 428
 ## Summary
 The goal of our project is to create a demo of what a book may look like with the technology of AR sometime down the future. For this project, we chose the book *Animal Farm* by George Orwell.
+
 Front and Back cover images:  
 https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/blob/master/Assets/Resources/images/front%20cover%20photo.jpg  
 https://github.com/Jtrinh3/CS428---Project-1---Animal-Farm/blob/master/Assets/Resources/images/back%20cover%20photo.jpg  
