@@ -1,5 +1,6 @@
 # CS428---Project-1---Animal-Farm
 Project 1 for CS 428
+[Project site: https://jtrinh3.github.io/CS428---Project-1---Animal-Farm/](https://jtrinh3.github.io/CS428---Project-1---Animal-Farm/)
 ## Summary
 The goal of our project is to create a demo of what a book may look like with the technology of AR sometime down the future. For this project, we chose the book *Animal Farm* by George Orwell.
 
